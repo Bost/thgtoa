@@ -11875,8 +11875,6 @@ Offline versions (best format for the best readability) of this guide at:
 
 -   All at CryptPad.fr <https://cryptpad.fr/drive/#/2/drive/view/Ughm9CjQJCwB8BIppdtvj5zy4PyE-8Gxn11x9zaqJLI/>
 
--   All at <https://anonarchive.org/> with the following public key: ```BPMWFUFLlN1obX3MA7RC?H2Ghz6A9hlNkanvT```
-
 # Appendix A7: Comparing versions
 
 If you want to compare an older version of the PDF with a newer version, consider these online tools (note that I do not endorse those tools in relation to their privacy policies, but it should not matter since these PDFs are public):
