@@ -1640,7 +1640,7 @@ If you still do not think such information can be used by various actors to trac
 
 -   Snapchat Transparency Report <https://www.snap.com/en-US/privacy/transparency> <sup>[[Archive.org]][207]</sup>
 
--   Telegram Transparency Report <https://t.me/transparency> <sup>[[Archive.org]][208]</sup> (requires telegram installed)
+-   Telegram Transparency Report <https://t.me/s/transparency> <sup>[[Archive.org]][208]</sup>
 
 -   Microsoft Transparency Report <https://www.microsoft.com/en-us/corporate-responsibility/law-enforcement-requests-report> <sup>[[Archive.org]][209]</sup>
 
@@ -13597,7 +13597,7 @@ You can find some introduction on these on these projects:
   [205]: https://web.archive.org/web/https://www.apple.com/legal/transparency/
   [206]: https://web.archive.org/web/https://www.cloudflare.com/transparency/
   [207]: https://web.archive.org/web/https://www.snap.com/en-US/privacy/transparency
-  [208]: https://web.archive.org/web/https://t.me/transparency
+  [208]: https://web.archive.org/web/https://t.me/s/transparency
   [209]: https://web.archive.org/web/https://www.microsoft.com/en-us/corporate-responsibility/law-enforcement-requests-report
   [210]: https://web.archive.org/web/https://www.amazon.com/gp/help/customer/display.html?nodeId=GYSDRGWQ2C2CRYEF
   [211]: https://web.archive.org/web/https://www.dropbox.com/transparency
