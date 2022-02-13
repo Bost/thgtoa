@@ -45,7 +45,6 @@ Follow or contact me on:
 Discussion Channels:
 - Matrix room: ```#anonymity:matrix.org``` <https://matrix.to/#/#anonymity:matrix.org>
 - Matrix space: ```#privacy-security-anonymity:matrix.org``` <https://matrix.to/#/#privacy-security-anonymity:matrix.org>
-- Discord (bridged with Matrix): <https://discord.gg/V8dmd9y7mt>
 - Github Discussions: <https://github.com/AnonymousPlanet/thgtoa/discussions>
 
 Have a good read and feel free to share and/or recommend it!
