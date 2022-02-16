@@ -59,7 +59,7 @@ Donations log (UTC date/time):
 - 2021-12-03 21:38: 0.10134722595 XMR
 - 2021-12-16 01:16: 1 XMR (Special thanks for this very generous donation)
 - 2021-12-16 18:06: 0.017 XMR
-- 2021-01-09 17:54: 0.045918219893 XMR
+- 2022-01-09 17:54: 0.045918219893 XMR
 
 Total Monero donations received: **4.665926880358 XMR**
 Total Bitcoin donations received: **1.89353 mBTC**
