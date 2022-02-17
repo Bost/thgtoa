@@ -1,3 +1,5 @@
+- Fix link to video "How to Hack a Turned-Off Computer, [..]"
+
 v1.1.2
 - Removed SIM/Virtual Numbers providers not accepting at least XMR from the guide as there are sufficient providers accepting XMR
 - Added some more free SMS providers in the guide

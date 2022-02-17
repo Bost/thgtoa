@@ -832,7 +832,7 @@ See [Appendix N: Warning about smartphones and smart devices]
 
 All modern CPUs[^102] are now integrating hidden management platforms such as the now infamous Intel Management Engine[^103] and the AMD Platform Security Processor[^104].
 
-Those management platforms are small operating systems running directly on your CPU as long as they have power. These systems have full access to your computer's network and could be accessed by an adversary to de-anonymize you in various ways (using direct access or using malware for instance) as shown in this enlightening video: BlackHat, How to Hack a Turned-Off Computer, or Running Unsigned Code in Intel Management Engine <https://www.youtube.com/watch?v=mYsTBPqbya8> <sup>[[Invidious]][76]</sup>.
+Those management platforms are small operating systems running directly on your CPU as long as they have power. These systems have full access to your computer's network and could be accessed by an adversary to de-anonymize you in various ways (using direct access or using malware for instance) as shown in this enlightening video: BlackHat, How to Hack a Turned-Off Computer, or Running Unsigned Code in Intel Management Engine <https://www.youtube.com/watch?v=9fhNokIgBMU> <sup>[[Invidious]][76]</sup>.
 
 These have already been affected by several security vulnerabilities in the past[^105] that allowed malware to gain control of target systems. These are also accused by many privacy actors including the EFF and Libreboot of being a backdoor into any system[^106].
 
